@@ -7,7 +7,7 @@ Run npm install<br>
 Run react-native start<br>
 Run react-native run-android
 
-For IOS:
+For IOS:<br>
 Run react-native run-ios
 
 If running on a device, run adb reverse tcp:8081 tcp:8081
