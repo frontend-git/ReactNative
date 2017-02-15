@@ -2,9 +2,9 @@ Installation
 
 For Android:
 
-Clone this repo
-Run npm install
-Run react-native start
+Clone this repo<br>
+Run npm install<br>
+Run react-native start<br>
 Run react-native run-android
 
 For IOS:
