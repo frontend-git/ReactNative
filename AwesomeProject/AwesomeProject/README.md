@@ -8,3 +8,5 @@ Installation
 If running on a device, run adb reverse tcp:8081 tcp:8081
 
 <img src="https://github.com/frontend-git/ReactNative/blob/master/AwesomeProject/AwesomeProject/Screenshot_20170215-133814.png" width="350"/>
+
+<img src="https://github.com/frontend-git/ReactNative/blob/master/AwesomeProject/AwesomeProject/Screenshot_20170215-133822.png" width="350"/>
